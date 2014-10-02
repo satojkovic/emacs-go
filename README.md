@@ -8,4 +8,4 @@ A list of useful elisp packages for Go. Inspired by [awesome-go](https://github.
 * [emacs-go-direx](https://github.com/syohex/emacs-go-direx) - Tree style source code viewer for Go language
 * [goimports](https://github.com/bradfitz/goimports) - Tool to fix (add, remove) your Go imports automatically
 * [go-oracle](https://code.google.com/p/go/source/browse?repo=tools#hg%2Foracle) - The go oracle is a prototype source analysis tool that answers questions about Go programs
-
+* [zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) - The Zenburn colour theme ported to Emacs
