@@ -9,3 +9,4 @@ A list of useful elisp packages for Go. Inspired by [awesome-go](https://github.
 * [goimports](https://github.com/bradfitz/goimports) - Tool to fix (add, remove) your Go imports automatically
 * [go-oracle](https://code.google.com/p/go/source/browse?repo=tools#hg%2Foracle) - The go oracle is a prototype source analysis tool that answers questions about Go programs
 * [zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) - The Zenburn colour theme ported to Emacs
+* [helm-go-package](https://github.com/yasuyk/helm-go-package) - helm sources for Go programming language's package
