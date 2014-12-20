@@ -11,3 +11,4 @@ A list of useful elisp packages for Go. Inspired by [awesome-go](https://github.
 * [zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) - The Zenburn colour theme ported to Emacs
 * [helm-go-package](https://github.com/yasuyk/helm-go-package) - helm sources for Go programming language's package
 * [go-errcheck](https://github.com/dominikh/go-errcheck.el) - go-errcheck provides an easy way to invoke errcheck from within Emacs. 
+* [golint](https://github.com/golang/lint.git) - This is a linter for Go source code.
