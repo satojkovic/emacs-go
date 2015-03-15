@@ -12,3 +12,5 @@ A list of useful elisp packages for Go. Inspired by [awesome-go](https://github.
 * [helm-go-package](https://github.com/yasuyk/helm-go-package) - helm sources for Go programming language's package
 * [go-errcheck](https://github.com/dominikh/go-errcheck.el) - go-errcheck provides an easy way to invoke errcheck from within Emacs. 
 * [golint](https://github.com/golang/lint.git) - This is a linter for Go source code.
+* [go-eldoc](https://github.com/syohex/emacs-go-eldoc) - eldoc for go language
+* [go-stacktracer](https://github.com/samertm/go-stacktracer.el) - stacks on stacks on stacks
